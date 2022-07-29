@@ -1,0 +1,10 @@
+main: me.hybridplague.checkjob.CheckJob
+name: CheckJob
+version: 2.0
+author: HybridPlague
+depends: [Vault]
+api-version: 1.13
+
+commands:
+  job:
+  checkjob:

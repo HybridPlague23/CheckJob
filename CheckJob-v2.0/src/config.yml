@@ -1,0 +1,69 @@
+# The way they are listed is how they will appear in the command message
+# For example: primeMinister will show up as "primeMinister" if the target player has the role; will not auto-capitalize
+
+Cabinet:
+- PrimeMinister
+- DeputyPrimeMinister
+- AgricultureMinister
+- StateMinister
+- ConstructionMinister
+- EconomyMinister
+- HealthMinister
+- JusticeMinister
+- PublicAffairsMinister
+- Adviser
+- Judge
+
+
+Parliament:
+- SpeakerOfParliament
+- DeputySpeakerOfParliament
+- MemberOfParliament
+
+SeniorGovernment:
+- Ambassador
+- DC Ambassador
+- HeadEventPlanner
+- SrEconomySec
+- SeniorAgricultureSecretary
+- SeniorRanger
+- SeniorTourGuide
+- Captain
+- Sergeant
+
+Government:
+- AgricultureSecretary
+- CityAdvisor
+- Constructor
+- EconomySec
+- EventPlanner
+- Police
+- DoCIntern
+- PropertyInspector
+- Ranger
+- StateSecretary
+- SocialAdvisor
+
+University:
+- Brewer
+- Chef
+- Doctor
+- Engineer
+- Farmer
+- Gunsmith
+- Hunter
+- Landscaper 
+- LumberJack
+- Miner
+- Pharmacist
+- TourGuide
+
+Qualifications:
+- Driver
+- Entrepreneur
+- Entrepreneur-1
+- Entrepreneur-2
+- Entrepreneur-3
+- Weapons Permit
+- Lawyer
+- Writer
